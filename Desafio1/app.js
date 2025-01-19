@@ -1,4 +1,3 @@
-
 let diaDaSemana = prompt("Qual o dia da semana? ");
 
 if ( diaDaSemana == "Sábado" || diaDaSemana == "Domingo"){
