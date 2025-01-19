@@ -23,3 +23,9 @@ if (pontos >= 100){
     alert("Tente novamente para ganhar")
 }
 
+let saldo = 1000;
+
+alert(`Seu saldo é de R$ ${saldo}`);
+
+let nome = prompt("Digite seu nome: ");
+alert(`Seja bem-vindo ${nome}`);
